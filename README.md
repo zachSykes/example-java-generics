@@ -44,5 +44,5 @@ Run As --> Java Application (select MainEntry or ShowStaticGenericMethodsAndBoun
 - design directory of design documents, like class diagram
  # example-java-generics
  
- TEST
+
  
